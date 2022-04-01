@@ -2,7 +2,7 @@
 
 ## CSS Framwork
 --- 
-Tailwind CSS - https://tailwindcss.com/
+Tailwind CSS - https://tailwindcss.com/  
 Bootstrap 5 - https://getbootstrap.com/  
 Foundation - https://get.foundation/  
 Bulma - https://bulma.io/  
